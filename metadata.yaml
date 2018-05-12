@@ -1,0 +1,33 @@
+_repo: The-Soldier-Boy--or-Tom-Somers-in-the-ArmyA-Story-of-the-Great-Rebellion_14595
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William Taylor
+    - Adams, William T. (William Taylor)
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_bookshelf:
+- US Civil War
+- Children's Fiction
+gutenberg_issued: '2005-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14595'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+title: 'The Soldier Boy; or, Tom Somers in the Army: A Story of the Great Rebellion'
+url: http://www.gutenberg.org/ebooks/14595
